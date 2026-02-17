@@ -1,0 +1,1 @@
+Grew up near the capital, loving parents 

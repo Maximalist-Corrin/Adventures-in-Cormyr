@@ -1,0 +1,5 @@
+[[Orly]] doesn't know they've been revived they just have some amnesia from a big fight. They remember their name and that they were a merchant but everything else is foggy so they're going on this adventure to find out information about who they are. 
+
+But as you play revived rogue you start having more and more contact with the dead so they have to learn to live with that. Pretty contained Chaos. The reason there is no alignment is cause she does not remember enough to have one. 
+
+Their background is of a merchant, long story short think of it as a robin hood situation. Must squash the demon of poverty by redistributing wealth so they would go after rich bastards along their old party. The last big baddie they fought had a glass eye ([[Glass Eye, Unknown]])  which is a mememnto I still have on me but don't remember what it's from. Also one of my old party members was a high level necromancer [[Necromancer, Old party]] ...go figure. But again I don't remember any of this, just muscle memory and the feeling I lost something important.

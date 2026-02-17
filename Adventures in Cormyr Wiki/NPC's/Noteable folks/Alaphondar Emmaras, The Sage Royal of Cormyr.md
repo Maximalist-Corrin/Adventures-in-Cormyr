@@ -1,0 +1,1 @@
+Also known simply as the Sage Royal, Alaphondar Emmaras serves as one of the Queen’s most trusted advisors. He rarely appears in public and is better known through sealed letters, royal commissions, and intermediaries.  

@@ -1,0 +1,1 @@
+Queen Raedra sits upon the Dragon Throne during one of the most tightly controlled periods in Cormyr’s recent history. Her reign has been defined by post-war recovery, strict enforcement of law, and a willingness to strip power from nobles she deems disloyal or cowardly.  

@@ -1,0 +1,1 @@
+The sole known survivor of the final battle against the Paper Dragons, Lady Katarina rose from hero to monarch after the complete collapse of New Elturel’s noble class. She is widely regarded as both a symbol of hope and a reminder of terrible loss.
