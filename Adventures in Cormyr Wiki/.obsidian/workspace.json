@@ -8,69 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "796b61d53125492e",
+            "id": "4daa125c270b70fa",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Players/Yaz/Orly Character  Sheet.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Orly Character  Sheet"
-            }
-          },
-          {
-            "id": "43b3e19e9fff3dba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC's/Player Relations/Rook/Elara, Rooks Wife.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "obsidian-leaflet-map-view",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Elara, Rooks Wife"
+              "title": "Leaflet Map"
             }
           },
           {
-            "id": "b4f97e6e098d7370",
+            "id": "ebf19dc9675b5dba",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Regions/Cormyr/Cormyr-And-Surroundings.png"
+                "file": "DM ONLY/Monster Stat sheets/Vargouille.png"
               },
               "icon": "lucide-image",
-              "title": "Cormyr-And-Surroundings"
+              "title": "Vargouille"
             }
           },
           {
-            "id": "4daa125c270b70fa",
+            "id": "098935d3e2d8b0e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools.md",
+                "file": "Players/Yaz/Orly.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tools"
-            }
-          },
-          {
-            "id": "aca8c42520d7dded",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Orly"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 554.5
+    "width": 422.5
   },
   "right": {
     "id": "abf1f531ad52eca2",
@@ -222,11 +196,7 @@
               "state": {
                 "calendar": "ID_cafa78a9e8ca",
                 "ephemeral": {
-                  "viewing": {
-                    "day": 4,
-                    "month": 6,
-                    "year": 1492
-                  },
+                  "viewing": null,
                   "viewState": 1,
                   "displaying": {
                     "day": 1,
@@ -245,33 +215,65 @@
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
-          }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "b9b4bcdaa1d0217a",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "a044451a9de8aa81",
+            "id": "e26dbf02f79e346e",
             "type": "leaf",
             "state": {
-              "type": "CALENDARIUM_AGENDA",
+              "type": "CALENDARIUM",
               "state": {
                 "calendar": "ID_cafa78a9e8ca",
-                "id": "ID_f9b908bb9a0b",
-                "parent": "ID_d9cb7a8b387b"
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 4,
+                    "month": 6,
+                    "year": 1492
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_d8dbdaebcaea"
               },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "ad55bc7d62b7ca1d",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_cafa78a9e8ca",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 4,
+                    "month": 6,
+                    "year": 1492
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
+                },
+                "id": "ID_f859bb6bf97a"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -287,21 +289,42 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4daa125c270b70fa",
+  "active": "274f6301e67e82c3",
   "lastOpenFiles": [
-    "Primer, Cormyr in the Aftermath.md",
+    "DM ONLY/Monster Stat sheets/Helmed Horror.png",
+    "DM ONLY/Monster Stat sheets/Vargouille.png",
+    "DM ONLY/Monster Stat sheets/Scarecrow.png",
+    "DM ONLY/Monster Stat sheets/Yeth Hound.png",
+    "DM ONLY/NPCS/Sir Bedevere, Questing Knight.md",
+    "Sessions/Sesson 2/DM ONLY - Pre session Notes.md",
+    "DM ONLY/Monster Stat sheets/Pasted image 20260217154827.png",
+    "DM ONLY/Monster Stat sheets/Yeth Hound.md",
+    "Players/John/Rook.md",
+    "Sessions/Sesson 2/Session Notes.md",
+    "DM ONLY/Templates/Session Notes.md",
     "Generic Notes.md",
+    "DM ONLY/a.md",
+    "DM ONLY/Templates",
+    "DM ONLY/Monster Stat sheets/Vargouille.md",
+    "Sessions/Session 1/Notes.md",
+    "DM ONLY/Monster Stat sheets/Vargouille Stat block.png",
+    "DM ONLY/Monster Stat sheets/Vargouille Image.png",
+    "Primer, Cormyr in the Aftermath.md",
+    "DM ONLY/Monster Stat sheets/Vargouille Stat block.md",
+    "DM ONLY/Monster Stat sheets",
+    "Players/Yaz/Orly Character  Sheet.pdf",
+    "Regions/Cormyr/Cormyr-And-Surroundings.png",
+    "DM ONLY/NPCS",
+    "NPC's/Untitled.md",
+    "DM ONLY",
     "Tools.md",
     "Regions/Cormyr/Cities/Suzail.md",
     "Regions/Cormyr/Cormyr-Map.md",
     "Regions/Cormyr/Cities",
     "Cities",
     "Regions/Cormyr/Laws of the relm.md",
-    "Regions/Cormyr/Cormyr-And-Surroundings.png",
     "Regions/Cormyr/Cormyr.md",
-    "Sessions/Sesson 2/Notes.md",
     "2026-02-17.md",
-    "Sessions/Session 1/Notes.md",
     "Sessions/Sesson 2",
     "Sessions/Session 1/Boons and Curses.md",
     "Players/Lucinda/Euston, Backstory.md",
@@ -311,22 +334,7 @@
     "NPC's/Player Relations/Euston.md",
     "Players/Lucinda/Euston, Character Sheet.pdf",
     "Players/Tom/Solomon.md",
-    "Players/Tom/Solomon, Background.md",
-    "NPC's/Player Relations/Solomon/Genie, Shopkeepr.md",
-    "NPC's/Player Relations",
-    "NPC's/Player Relations/Solomon",
-    "NPC's/Untitled.md",
-    "Players/Tom/Solomon, Goals.md",
     "Players/Tom/Solomon, Profile Picture.png",
-    "Players/Lucinda",
-    "NPC's/Noteable folks/Lady Katarina, High Queen of New Elturel.md",
-    "NPC's/Noteable folks/Alaphondar Emmaras, The Sage Royal of Cormyr.md",
-    "NPC's/Noteable folks/Queen Raedra Obarskyr, Ruler of Cormyr.md",
-    "NPC's/Noteable folks",
-    "Players/Tom",
-    "Players/John/Rook Goals.md",
-    "Players/John/Rook.md",
-    "Players/Mia/Aglaea, Profile Pic.png",
-    "Players/Yaz/Orly Profile Pic.png"
+    "Players/Mia/Aglaea, Profile Pic.png"
   ]
 }

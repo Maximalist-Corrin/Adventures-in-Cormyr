@@ -5,3 +5,5 @@ Saw A extremely proud man turning from a statue to a man. Then a person knitting
 Pretending to be a cleric of the trickery domain tho.
 
 Has a familiar called [[Lulu, Monkey]]
+
+Rooks first card was the 4 of Charisma  
